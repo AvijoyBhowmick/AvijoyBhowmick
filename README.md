@@ -14,7 +14,7 @@
 Outside of [GitHub](https://github.com/mianjawadahmad/), You can **find me. Currently I'm **free to contribute**
 [![Twitter: AvijoyDasBhowmick](https://img.shields.io/twitter/follow/helloavijoy?style=social)](https://twitter.com/helloavijoy)
 [![Linkedin: AvijoyDasBhowmick](https://img.shields.io/badge/-MianJawadAhmad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/avijoydasbhowmick/)](https://https://www.linkedin.com/in/avijoydasbhowmick/)
-[![GitHub AvijoyDasBhowmick](https://img.shields.io/github/followers/AvijoyDasBhowmick?label=follow&style=social)](https://github.com/avijoybhowmick)
+[![GitHub: AvijoyDasBhowmick](https://img.shields.io/github/followers/AvijoyDasBhowmick?label=follow&style=social)](https://github.com/avijoybhowmick)
 <p><a href="https://encoderbytes.com">🌐 Check out my website</a></p>
 
 
