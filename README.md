@@ -12,9 +12,9 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MianJawadAhmad&show_icons=true)
 <br>
 Outside of [GitHub](https://github.com/mianjawadahmad/), You can **find me. Currently I'm **free to contribute**
-[![Twitter: MianJawadAhmad](https://img.shields.io/twitter/follow/helloavijoy?style=social)](https://twitter.com/helloavijoy)
-[![Linkedin: MianJawadAhmad](https://img.shields.io/badge/-MianJawadAhmad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mianjawadahmad/)](https://www.linkedin.com/in/mianjawadahmad/)
-[![GitHub MianJawadAhmad](https://img.shields.io/github/followers/MianJawadAhmad?label=follow&style=social)](https://github.com/MianJawadAhmad)
+[![Twitter: AvijoyDasBhowmick](https://img.shields.io/twitter/follow/helloavijoy?style=social)](https://twitter.com/helloavijoy)
+[![Linkedin: AvijoyDasBhowmick](https://img.shields.io/badge/-MianJawadAhmad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/avijoydasbhowmick/)](https://https://www.linkedin.com/in/avijoydasbhowmick/)
+[![GitHub AvijoyDasBhowmick](https://img.shields.io/github/followers/MianJawadAhmad?label=follow&style=social)](https://github.com/MianJawadAhmad)
 <p><a href="https://encoderbytes.com">🌐 Check out my website</a></p>
 
 
