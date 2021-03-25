@@ -15,3 +15,17 @@ Instagram - [@helloavijoy](https://www.instagram.com/helloavijoy/)
 </p>
 
 
+<p >
+  <a href="https://github.com/avijoybhowmick?tab=followers">
+    <img src="https://komarev.com/ghpvc/?username=avijoybhowmick&color=blue&label=Profile+Views" alt="GitHub badge" />
+  </a>
+  <a href="https://github.com/avijoybhowmick?tab=followers">
+    <img src="https://img.shields.io/github/followers/avijoybhowmick?label=follow&style=social" alt="GitHub badge" />
+  </a>
+  <a href="https://twitter.com/helloavijoy">
+    <img src="https://img.shields.io/twitter/follow/helloavijoy?style=social" />
+  </a>
+  <a href="https://www.linkedin.com/in/avijoydasbhowmick/">
+    <img src="https://img.shields.io/badge/-avijoydasbhowmick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avijoydasbhowmick/" />
+  </a>
+</p>
