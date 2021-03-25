@@ -5,5 +5,13 @@ Twitter - [@helloavijoy](https://twitter.com/helloavijoy)
 
 Youtube - [@AvijoyBhowmick](https://www.youtube.com/channel/UCEL2UEv7ljqQeLRvvNGzPHw)
 
+Instagram - [@helloavijoy](https://www.instagram.com/helloavijoy/)
 
-<img src ="https://github-readme-stats.vercel.app/api?username=avijoybhowmick&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<br>
+
+<p align="center">
+  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=avijoybhowmick&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avijoybhowmick&count_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</p>
+
+
