@@ -4,3 +4,6 @@
 Twitter - [@helloavijoy](https://twitter.com/helloavijoy)
 
 Youtube - [@AvijoyBhowmick](https://www.youtube.com/channel/UCEL2UEv7ljqQeLRvvNGzPHw)
+
+
+<img src ="https://github-readme-stats.vercel.app/api?username=avijoybhowmick&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
