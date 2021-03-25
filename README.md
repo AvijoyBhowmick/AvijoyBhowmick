@@ -7,6 +7,36 @@ Youtube - [@AvijoyBhowmick](https://www.youtube.com/channel/UCEL2UEv7ljqQeLRvvNG
 
 Instagram - [@helloavijoy](https://www.instagram.com/helloavijoy/)
 
+<p>
+  <a href="https://www.instagram.com/helloavijoy/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="https://twitter.com/helloavijoy">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  
+  
+  <a href="https://www.linkedin.com/in/avijoydasbhowmick/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
+  
+  <a href="https://play.google.com/store/apps/dev?id=5968306291443262199">
+    <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white">
+  </a>
+  
+  
+  <a href="https://www.youtube.com/channel/UCEL2UEv7ljqQeLRvvNGzPHw">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  
+  <a href="https://avijoybhowmick.blogspot.com/">
+    <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
+  </a>
+
+</p>
+
 <br>
 
 <p align="center">
