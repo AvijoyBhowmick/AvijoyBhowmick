@@ -3,4 +3,4 @@
 
 Twitter - [@helloavijoy](https://twitter.com/helloavijoy)
 
-Youtube - [@AvijoyBhowmick](www.youtube.com/avijoybhowmick)
+Youtube - [@AvijoyBhowmick](https://www.youtube.com/channel/UCEL2UEv7ljqQeLRvvNGzPHw)
